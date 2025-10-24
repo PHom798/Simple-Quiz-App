@@ -1,7 +1,8 @@
 # 🧠 Flutter Quiz App
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=flutter\&logoColor=white)](https://flutter.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Powered by Dart](https://img.shields.io/badge/Powered%20by-Dart-0175C2?logo=dart\&logoColor=white)](https://dart.dev)
+[![UI/UX Design](https://img.shields.io/badge/Design-Neuromorphism%20UI-ff69b4)]()
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.org/)
 
 ## 📘 Overview
