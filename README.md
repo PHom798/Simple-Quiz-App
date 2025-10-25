@@ -36,10 +36,10 @@ This project serves as an excellent practice resource for Flutter beginners, hel
 <div align="left">
   <table>
     <tr>
-      <td><img src="screenshots/image1.jpg" alt="Neuromorphic Clock Example 1" width="250"/></td>
-      <td><img src="screenshots/image4.jpg" alt="Neuromorphic Clock Example 2" width="250"/></td>
-      <td><img src="screenshots/image3.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
+      <td><img src="screenshots/image4.jpg" alt="Neuromorphic Clock Example 1" width="250"/></td>
+      <td><img src="screenshots/image3.jpg" alt="Neuromorphic Clock Example 2" width="250"/></td>
       <td><img src="screenshots/image2.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
+      <td><img src="screenshots/image1.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
     </tr>
   </table>
 </div>
