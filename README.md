@@ -48,7 +48,7 @@ This project serves as an excellent practice resource for Flutter beginners, hel
 
 ## 🎥 Demo Video
 
-Watch the **Neuromorphism Digital Clock** in action on **X :**
+Watch the **Quiz App** in action on **X :**
 👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1937868338769895813)
 
 ---
