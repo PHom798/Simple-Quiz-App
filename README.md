@@ -17,7 +17,7 @@ This project serves as an excellent practice resource for Flutter beginners, hel
 
 <div align="center">
   
-  ![Digital Clock](screenshots/imageneuro.jpeg)
+  ![Digital Clock](screenshots/quiz.jpeg)
     
 </div>
 
@@ -48,8 +48,8 @@ This project serves as an excellent practice resource for Flutter beginners, hel
 
 ## 🎥 Demo Video
 
-Watch the **Neuromorphism Digital Clock** in action on **X (formerly Twitter):**
-👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1949116612566552703)
+Watch the **Neuromorphism Digital Clock** in action on **X :**
+👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1937868338769895813)
 
 ---
 
@@ -60,7 +60,6 @@ Watch the **Neuromorphism Digital Clock** in action on **X (formerly Twitter):**
 | ----------------------- | ------------------------------------------------------- |
 | **Flutter**             | Cross-platform framework for building native interfaces |
 | **Dart**                | Programming language used to develop Flutter apps       |
-| **Provider / setState** | State management for handling user interactions         |
 
 ---
 
